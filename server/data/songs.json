@@ -33,5 +33,12 @@
     "artist": "John Denver",
     "releaseDate": "1974",
     "lyricsFile": "coming-over.txt"
+    
+  },
+  {
+    "id": 5,
+    "title": "So sick",
+    "artist": "Ne-Yo",
+    "releaseDate": "2006"
   }
 ]
