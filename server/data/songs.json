@@ -26,5 +26,12 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 7,
+    "title": "Annie's song",
+    "artist": "John Denver",
+    "releaseDate": "1974",
+    "lyricsFile": "coming-over.txt"
   }
 ]
